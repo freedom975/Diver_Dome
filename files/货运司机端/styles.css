@@ -1,11 +1,11 @@
 ﻿body {
   margin:0px;
   background-image:none;
-  position:relative;
-  left:-0px;
+  position:static;
+  left:auto;
   width:1031px;
-  margin-left:auto;
-  margin-right:auto;
+  margin-left:0;
+  margin-right:0;
   text-align:left;
 }
 #base {
@@ -106,8 +106,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:507px;
-  height:157px;
+  width:968px;
+  height:215px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -122,8 +122,8 @@
   position:absolute;
   left:46px;
   top:153px;
-  width:507px;
-  height:157px;
+  width:968px;
+  height:215px;
   line-height:36px;
 }
 #u3_text {
@@ -131,6 +131,6 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:507px;
+  width:968px;
   word-wrap:break-word;
 }

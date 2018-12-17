@@ -1,19 +1,19 @@
 ﻿body {
   margin:0px;
-  background-color:rgba(228, 228, 228, 1);
+  background-color:rgba(215, 215, 215, 1);
   background-image:none;
-  position:relative;
-  left:-100px;
-  width:929px;
-  margin-left:auto;
-  margin-right:auto;
+  position:static;
+  left:auto;
+  width:1029px;
+  margin-left:0;
+  margin-right:0;
   text-align:left;
 }
 #base {
   position:absolute;
   z-index:0;
 }
-#u2107_img {
+#u2113_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -21,7 +21,7 @@
   width:929px;
   height:682px;
 }
-#u2107 {
+#u2113 {
   border-width:0px;
   position:absolute;
   left:100px;
@@ -29,7 +29,7 @@
   width:929px;
   height:682px;
 }
-#u2107_text {
+#u2113_text {
   border-width:0px;
   position:absolute;
   left:0px;
