@@ -1905,3 +1905,38 @@
   width:37px;
   white-space:nowrap;
 }
+#u7445_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:49px;
+  height:15px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:12px;
+  color:#0099FF;
+}
+#u7445 {
+  border-width:0px;
+  position:absolute;
+  left:4px;
+  top:86px;
+  width:49px;
+  height:15px;
+  font-size:12px;
+  color:#0099FF;
+}
+#u7445_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:49px;
+  white-space:nowrap;
+}
