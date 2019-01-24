@@ -4,7 +4,7 @@
   background-image:none;
   position:relative;
   left:-101px;
-  width:1067px;
+  width:1069px;
   margin-left:auto;
   margin-right:auto;
   text-align:left;
@@ -468,7 +468,7 @@
   width:330px;
   height:30px;
   background-color:transparent;
-  font-family:'Heiti SC Light', 'Heiti SC';
+  font-family:'Heiti SC Regular', 'Heiti SC';
   font-weight:200;
   font-style:normal;
   font-size:16px;
@@ -594,7 +594,33 @@
   width:41px;
   white-space:nowrap;
 }
-#u1548_div {
+#u1548_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:24px;
+  height:24px;
+}
+#u1548 {
+  border-width:0px;
+  position:absolute;
+  left:683px;
+  top:79px;
+  width:24px;
+  height:24px;
+  font-size:12px;
+  color:#FF3399;
+}
+#u1548_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:4px;
+  width:20px;
+  word-wrap:break-word;
+}
+#u1549_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -625,11 +651,11 @@
   color:#FF3399;
   line-height:18px;
 }
-#u1548 {
+#u1549 {
   border-width:0px;
   position:absolute;
-  left:668px;
-  top:79px;
+  left:670px;
+  top:78px;
   width:500px;
   height:36px;
   font-family:'Microsoft Tai Le';
@@ -639,37 +665,11 @@
   color:#FF3399;
   line-height:18px;
 }
-#u1548_text {
+#u1549_text {
   border-width:0px;
   position:absolute;
   left:8px;
   top:4px;
   width:492px;
-  word-wrap:break-word;
-}
-#u1549_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:24px;
-  height:24px;
-}
-#u1549 {
-  border-width:0px;
-  position:absolute;
-  left:683px;
-  top:79px;
-  width:24px;
-  height:24px;
-  font-size:12px;
-  color:#FF3399;
-}
-#u1549_text {
-  border-width:0px;
-  position:absolute;
-  left:2px;
-  top:4px;
-  width:20px;
   word-wrap:break-word;
 }

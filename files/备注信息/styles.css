@@ -565,7 +565,7 @@
   width:330px;
   height:30px;
   background-color:transparent;
-  font-family:'Heiti SC Light', 'Heiti SC';
+  font-family:'Heiti SC Regular', 'Heiti SC';
   font-weight:200;
   font-style:normal;
   font-size:16px;
@@ -655,7 +655,7 @@
   width:330px;
   height:30px;
   background-color:transparent;
-  font-family:'Heiti SC Light', 'Heiti SC';
+  font-family:'Heiti SC Regular', 'Heiti SC';
   font-weight:200;
   font-style:normal;
   font-size:16px;
@@ -807,13 +807,39 @@
   width:41px;
   white-space:nowrap;
 }
-#u1035_div {
+#u1035_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:24px;
+  height:24px;
+}
+#u1035 {
+  border-width:0px;
+  position:absolute;
+  left:683px;
+  top:79px;
+  width:24px;
+  height:24px;
+  font-size:12px;
+  color:#FF3399;
+}
+#u1035_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:4px;
+  width:20px;
+  word-wrap:break-word;
+}
+#u1036_div {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
   width:500px;
-  height:36px;
+  height:68px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   box-sizing:border-box;
@@ -838,13 +864,13 @@
   color:#FF3399;
   line-height:18px;
 }
-#u1035 {
+#u1036 {
   border-width:0px;
   position:absolute;
   left:668px;
-  top:79px;
+  top:77px;
   width:500px;
-  height:36px;
+  height:68px;
   font-family:'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
@@ -852,37 +878,11 @@
   color:#FF3399;
   line-height:18px;
 }
-#u1035_text {
+#u1036_text {
   border-width:0px;
   position:absolute;
   left:8px;
   top:4px;
   width:492px;
-  word-wrap:break-word;
-}
-#u1036_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:24px;
-  height:24px;
-}
-#u1036 {
-  border-width:0px;
-  position:absolute;
-  left:683px;
-  top:79px;
-  width:24px;
-  height:24px;
-  font-size:12px;
-  color:#FF3399;
-}
-#u1036_text {
-  border-width:0px;
-  position:absolute;
-  left:2px;
-  top:4px;
-  width:20px;
   word-wrap:break-word;
 }
